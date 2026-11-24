@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="160" viewBox="0 0 108 108" role="img" aria-label="Centinela Privacidad Logo">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#131C31" />
+      <stop offset="100%" stop-color="#0B1120" />
+    </linearGradient>
+    <linearGradient id="shieldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#34D399" />
+      <stop offset="100%" stop-color="#10B981" />
+    </linearGradient>
+  </defs>
+
+  <!-- Rounded squircle app icon container -->
+  <rect x="3" y="3" width="102" height="102" rx="24" fill="url(#bgGrad)" stroke="#283556" stroke-width="2" />
+
+  <!-- Outer shield -->
+  <path
+    fill="url(#shieldGrad)"
+    d="M54,19 L81,29.5 L81,53 C81,70 69.3,84.2 54,89 C38.7,84.2 27,70 27,53 L27,29.5 Z" />
+
+  <!-- Inner dark shield -->
+  <path
+    fill="#0F172A"
+    d="M54,25.5 L74.5,33.5 L74.5,52.8 C74.5,66.2 65.7,77.5 54,81.6 C42.3,77.5 33.5,66.2 33.5,52.8 L33.5,33.5 Z" />
+
+  <!-- Eye / lens motif -->
+  <path
+    fill="#34D399"
+    d="M54,43 C44.5,43 38.5,51.5 38.5,53 C38.5,54.5 44.5,63 54,63 C63.5,63 69.5,54.5 69.5,53 C69.5,51.5 63.5,43 54,43 Z" />
+
+  <!-- Iris -->
+  <circle cx="54" cy="53" r="5.5" fill="#0F172A" />
+
+  <!-- Alert sensor pupil -->
+  <circle cx="54" cy="53" r="2.5" fill="#EF4444" />
+</svg>

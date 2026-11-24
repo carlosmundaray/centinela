@@ -1,4 +1,21 @@
-# Centinela Privacidad
+<p align="center">
+  <img src="docs/logo.svg" alt="Centinela Privacidad Logo" width="136" height="136" />
+</p>
+
+<h1 align="center">Centinela Privacidad</h1>
+
+<p align="center">
+  <strong>Monitor de cámara y micrófono, bloqueo de sensores y blindaje de privacidad para Android (sin root).</strong>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Android-8.0%2B%20(API%2026)-10B981?style=flat-square&logo=android&logoColor=white" alt="Android 8.0+" />
+  <img src="https://img.shields.io/badge/Kotlin-2.1-38BDF8?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin 2.1" />
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-Material%203-0F172A?style=flat-square&logo=jetpackcompose&logoColor=34D399" alt="Jetpack Compose" />
+  <img src="https://img.shields.io/badge/Versi%C3%B3n-1.2.0-10B981?style=flat-square" alt="Versión 1.2.0" />
+</p>
+
+---
 
 Aplicación Android en **Kotlin + Jetpack Compose (Material 3)** para monitorear en tiempo real el acceso a cámara y micrófono, auditar permisos, bloquear sensores y endurecer la privacidad del sistema **sin necesidad de root**.
 
