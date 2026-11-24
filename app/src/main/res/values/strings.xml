@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Centinela Privacidad</string>
+    <string name="accessibility_service_label">Centinela: Detector de app activa</string>
+    <string name="accessibility_service_description">Detecta qué aplicación está abierta en pantalla en el instante en que se activa la cámara o el micrófono. No lee contenido de pantalla ni contraseñas.</string>
+    <string name="device_admin_label">Centinela: Bloqueo de cámara y micrófono</string>
+    <string name="device_admin_description">Permite bloquear el acceso a la cámara y al micrófono a nivel de sistema (incluidas apps de sistema) cuando está activo el Modo Propietario.</string>
+    <string name="quick_tile_label">Bloquear Cám/Mic</string>
+</resources>
